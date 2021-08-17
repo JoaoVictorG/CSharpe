@@ -6,7 +6,9 @@ namespace Primeiro
     {
         static void Main(string[] args)
         {
-            /*
+
+            /*   
+             *    =====    Média das idades    =====
             Console.WriteLine("Qual a idade da primera pessoa?");
             int idade1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Qual a idade da segunda pessoa?");
@@ -21,6 +23,10 @@ namespace Primeiro
             int resultado = (idade1 + idade2 + idade3 + idade4 + idade5) / 5;
             Console.WriteLine($"A idade média é {resultado}");
             */
+
+
+            /*
+             *    =====    Número Impar ou Par    =====
             Console.WriteLine("Digite um número");
             int numero1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Digite mais um número");
@@ -41,6 +47,20 @@ namespace Primeiro
             {
                 Console.WriteLine("O segundo número é impar");
             }
+            */
+
+            /*    =====    Tabuada    =====    
+            Console.WriteLine("TABUADA");
+            Console.WriteLine("Digite um número");
+            int multiplicando = Convert.ToInt32(Console.ReadLine());
+            int multiplicador = 0;
+            while( multiplicador != 11)
+            {
+                int resultado = multiplicando * multiplicador;
+                Console.WriteLine($"{multiplicando} x {multiplicador} = {resultado} ");
+                multiplicador++;
+            }
+            */
         }
     }
 }
