@@ -49,7 +49,7 @@ namespace Primeiro
             }
             */
 
-            /*    =====    Tabuada    =====    */
+            /*    =====    Tabuada    =====    
             Console.WriteLine("TABUADA");
             Console.WriteLine("Digite um número");
             int multiplicando = Convert.ToInt32(Console.ReadLine());
@@ -60,6 +60,7 @@ namespace Primeiro
                 Console.WriteLine($"{multiplicando} x {multiplicador} = {resultado} ");
                 multiplicador++;
             }
+            */
         }
     }
 }
