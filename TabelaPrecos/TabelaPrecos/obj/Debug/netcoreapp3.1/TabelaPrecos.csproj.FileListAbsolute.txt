@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\bin\Debug\netcoreapp3.1\TabelaPrecos.exe
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\bin\Debug\netcoreapp3.1\TabelaPrecos.deps.json
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\bin\Debug\netcoreapp3.1\TabelaPrecos.runtimeconfig.json
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\bin\Debug\netcoreapp3.1\TabelaPrecos.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\bin\Debug\netcoreapp3.1\TabelaPrecos.dll
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\bin\Debug\netcoreapp3.1\TabelaPrecos.pdb
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.dll
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.pdb
+H:\Github\Estudo\CSharpe\TabelaPrecos\TabelaPrecos\obj\Debug\netcoreapp3.1\TabelaPrecos.genruntimeconfig.cache
