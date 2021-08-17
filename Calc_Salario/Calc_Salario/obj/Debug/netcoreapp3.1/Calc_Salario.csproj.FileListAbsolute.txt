@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\bin\Debug\netcoreapp3.1\Calc_Salario.exe
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\bin\Debug\netcoreapp3.1\Calc_Salario.deps.json
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\bin\Debug\netcoreapp3.1\Calc_Salario.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\bin\Debug\netcoreapp3.1\Calc_Salario.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\bin\Debug\netcoreapp3.1\Calc_Salario.dll
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\bin\Debug\netcoreapp3.1\Calc_Salario.pdb
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.dll
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.pdb
+H:\Github\Estudo\CSharpe\Calc_Salario\Calc_Salario\obj\Debug\netcoreapp3.1\Calc_Salario.genruntimeconfig.cache
