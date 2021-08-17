@@ -12,20 +12,27 @@ namespace Calc_Salario
             {
                 Console.WriteLine($"Digite o valor do sálário do funcionário {funcionario}");
                 float salario_bruto = Convert.ToInt32(Console.ReadLine());
-                if(salario_bruto <= 300)
+                if(salario_bruto > 0)
                 {
-                    double salario_final = salario_bruto * 1.50;
-                    Console.WriteLine($"O salário do funcionario {funcionario} é {salario_final}");
-                    funcionario++;
+                    if (salario_bruto <= 300)
+                    {
+                        double salario_final = salario_bruto * 1.50;
+                        Console.WriteLine($"O salário do funcionario {funcionario} é {salario_final}");
+                        funcionario++;
+                    }
+                    else
+                    {
+                        double salario_final = salario_bruto * 1.30;
+                        Console.WriteLine($"O salário do funcionario {funcionario} é {salario_final}");
+                        funcionario++;
+                    }
                 }
                 else
                 {
-                    double salario_final = salario_bruto * 1.30;
-                    Console.WriteLine($"O salário do funcionario {funcionario} é {salario_final}");
-                    funcionario++;
+                    Console.WriteLine("Não é permitido salário negativo");
                 }
-                Console.WriteLine("Fim");
             }
+            Console.WriteLine("Fim");
 
         }
     }
