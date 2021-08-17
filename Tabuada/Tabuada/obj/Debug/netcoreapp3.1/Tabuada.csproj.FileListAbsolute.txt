@@ -1,0 +1,12 @@
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.exe
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.deps.json
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.dll
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\bin\Debug\netcoreapp3.1\Tabuada.pdb
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
