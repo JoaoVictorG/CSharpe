@@ -1,0 +1,12 @@
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\bin\Debug\netcoreapp3.1\Media-Idade.exe
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\bin\Debug\netcoreapp3.1\Media-Idade.deps.json
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\bin\Debug\netcoreapp3.1\Media-Idade.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\bin\Debug\netcoreapp3.1\Media-Idade.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\bin\Debug\netcoreapp3.1\Media-Idade.dll
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\bin\Debug\netcoreapp3.1\Media-Idade.pdb
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\obj\Debug\netcoreapp3.1\Media-Idade.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\obj\Debug\netcoreapp3.1\Media-Idade.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\obj\Debug\netcoreapp3.1\Media-Idade.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\obj\Debug\netcoreapp3.1\Media-Idade.dll
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\obj\Debug\netcoreapp3.1\Media-Idade.pdb
+H:\Github\Estudo\CSharpe\Media-Idade\Media-Idade\obj\Debug\netcoreapp3.1\Media-Idade.genruntimeconfig.cache
