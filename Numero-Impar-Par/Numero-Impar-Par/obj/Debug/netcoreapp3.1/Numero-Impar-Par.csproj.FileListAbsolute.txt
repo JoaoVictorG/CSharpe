@@ -1,0 +1,12 @@
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\bin\Debug\netcoreapp3.1\Numero-Impar-Par.exe
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\bin\Debug\netcoreapp3.1\Numero-Impar-Par.deps.json
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\bin\Debug\netcoreapp3.1\Numero-Impar-Par.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\bin\Debug\netcoreapp3.1\Numero-Impar-Par.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\bin\Debug\netcoreapp3.1\Numero-Impar-Par.dll
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\bin\Debug\netcoreapp3.1\Numero-Impar-Par.pdb
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\obj\Debug\netcoreapp3.1\Numero-Impar-Par.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\obj\Debug\netcoreapp3.1\Numero-Impar-Par.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\obj\Debug\netcoreapp3.1\Numero-Impar-Par.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\obj\Debug\netcoreapp3.1\Numero-Impar-Par.dll
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\obj\Debug\netcoreapp3.1\Numero-Impar-Par.pdb
+H:\Github\Estudo\CSharpe\Numero-Impar-Par\Numero-Impar-Par\obj\Debug\netcoreapp3.1\Numero-Impar-Par.genruntimeconfig.cache
