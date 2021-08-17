@@ -29,31 +29,39 @@ namespace TabelaPrecos
             int pedido = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Quantos itens?");
             int quantidade = Convert.ToInt32(Console.ReadLine());
-            if(pedido == cod1){
-                double valor_total = valor_cod1 * quantidade;
-                Console.WriteLine($"O valor total foi de {valor_total}");
-            }
-            if (pedido == cod2)
+            while(pedido <= 5)
             {
-                double valor_total = valor_cod2 * quantidade;
-                Console.WriteLine($"O valor total foi de {valor_total}");
+                if (pedido == cod1)
+                {
+                    double valor_total = valor_cod1 * quantidade;
+                    Console.WriteLine($"O valor total foi de R${valor_total}");
+                    break;
+                }
+                if (pedido == cod2)
+                {
+                    double valor_total = valor_cod2 * quantidade;
+                    Console.WriteLine($"O valor total foi de R${valor_total}");
+                    break;
+                }
+                if (pedido == cod3)
+                {
+                    double valor_total = valor_cod3 * quantidade;
+                    Console.WriteLine($"O valor total foi de R${valor_total}");
+                    break;
+                }
+                if (pedido == cod4)
+                {
+                    double valor_total = valor_cod4 * quantidade;
+                    Console.WriteLine($"O valor total foi de R${valor_total}");
+                    break;
+                }
+                if (pedido == cod5)
+                {
+                    double valor_total = valor_cod5 * quantidade;
+                    Console.WriteLine($"O valor total foi de R${valor_total}");
+                    break;
+                }
             }
-            if (pedido == cod3)
-            {
-                double valor_total = valor_cod3 * quantidade;
-                Console.WriteLine($"O valor total foi de {valor_total}");
-            }
-            if (pedido == cod4)
-            {
-                double valor_total = valor_cod4 * quantidade;
-                Console.WriteLine($"O valor total foi de {valor_total}");
-            }
-            if (pedido == cod5)
-            {
-                double valor_total = valor_cod5 * quantidade;
-                Console.WriteLine($"O valor total foi de R${valor_total}");
-            }
-
         }
     }
 }
