@@ -1,0 +1,16 @@
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.Form1.resources
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.Properties.Resources.resources
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.csproj.GenerateResource.cache
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.exe
+H:\Github\Estudo\CSharpe\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.deps.json
+H:\Github\Estudo\CSharpe\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.dll
+H:\Github\Estudo\CSharpe\Contatos\Contatos\bin\Debug\netcoreapp3.1\Contatos.pdb
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.dll
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.pdb
+H:\Github\Estudo\CSharpe\Contatos\Contatos\obj\Debug\netcoreapp3.1\Contatos.genruntimeconfig.cache
