@@ -21,5 +21,10 @@ namespace Contatos
         {
             MessageBox.Show("Lista de Contatos 1.0. escrito por: João Victor", "Sobre");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Teste");
+        }
     }
 }
