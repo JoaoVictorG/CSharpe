@@ -10,7 +10,7 @@ namespace Contatos
         public static void Main()
         {
             MessageBox.Show("Pow!");
-            for (int i = 0; i < 8; i = i + 2)
+            for (int i = 0;i <= 8;i = i + 2)
             {
                 MessageBox.Show($"Vou aparecer 4 vezes {i}");
             }
