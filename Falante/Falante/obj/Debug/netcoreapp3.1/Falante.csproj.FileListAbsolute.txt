@@ -1,0 +1,15 @@
+H:\Github\Estudo\CSharpe\Falante\Falante\bin\Debug\netcoreapp3.1\Falante.exe
+H:\Github\Estudo\CSharpe\Falante\Falante\bin\Debug\netcoreapp3.1\Falante.deps.json
+H:\Github\Estudo\CSharpe\Falante\Falante\bin\Debug\netcoreapp3.1\Falante.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Falante\Falante\bin\Debug\netcoreapp3.1\Falante.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Falante\Falante\bin\Debug\netcoreapp3.1\Falante.dll
+H:\Github\Estudo\CSharpe\Falante\Falante\bin\Debug\netcoreapp3.1\Falante.pdb
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.Form1.resources
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.csproj.GenerateResource.cache
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.dll
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.pdb
+H:\Github\Estudo\CSharpe\Falante\Falante\obj\Debug\netcoreapp3.1\Falante.genruntimeconfig.cache
