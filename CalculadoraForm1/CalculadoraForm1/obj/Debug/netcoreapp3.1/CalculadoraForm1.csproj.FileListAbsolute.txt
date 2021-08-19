@@ -1,0 +1,15 @@
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\bin\Debug\netcoreapp3.1\CalculadoraForm1.exe
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\bin\Debug\netcoreapp3.1\CalculadoraForm1.deps.json
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\bin\Debug\netcoreapp3.1\CalculadoraForm1.runtimeconfig.json
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\bin\Debug\netcoreapp3.1\CalculadoraForm1.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\bin\Debug\netcoreapp3.1\CalculadoraForm1.dll
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\bin\Debug\netcoreapp3.1\CalculadoraForm1.pdb
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.Form1.resources
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.csproj.GenerateResource.cache
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.dll
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.pdb
+H:\Github\Estudo\CSharpe\CalculadoraForm1\CalculadoraForm1\obj\Debug\netcoreapp3.1\CalculadoraForm1.genruntimeconfig.cache
