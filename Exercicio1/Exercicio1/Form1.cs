@@ -29,13 +29,16 @@ namespace Exercicio1
 
         private void label1_Click(object sender, EventArgs e)
         {
-            if (checkBox1.Checked == false)
+            if(checkBox1.Checked == true && panel1.BackColor == Color.Red)
             {
-                MessageBox.Show("A caixa não está marcada");
+                panel1.BackColor = Color.Blue;
+            }
+            else if(checkBox1.Checked == true && panel1.BackColor == Color.Blue){
+                panel1.BackColor = Color.Red;
             }
             else
             {
-
+                MessageBox.Show("A caixa não está marcada");
             }
         }
     }
