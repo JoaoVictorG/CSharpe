@@ -1,0 +1,15 @@
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.Form1.resources
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.GenerateResource.cache
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+H:\Github\Estudo\CSharpe\Exercicio1\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache
