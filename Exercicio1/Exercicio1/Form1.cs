@@ -38,7 +38,7 @@ namespace Exercicio1
             }
             else
             {
-                MessageBox.Show("A caixa não está marcada");
+                MessageBox.Show("A caixa não está marcada, porfavor marque");
             }
         }
     }
