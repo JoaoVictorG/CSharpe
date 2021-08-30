@@ -10,3 +10,4 @@ H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.
 H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.dll
 H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.pdb
 H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.genruntimeconfig.cache
+H:\Github\Estudo\CSharpe\Tabuada\Tabuada\obj\Debug\netcoreapp3.1\Tabuada.csproj.AssemblyReference.cache

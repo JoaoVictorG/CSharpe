@@ -12,7 +12,7 @@ namespace Contatos
         ///  The main entry point for the application.
         /// </summary>
         [STAThread]
-        static void NotMain()
+        static void Main()
         {
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();

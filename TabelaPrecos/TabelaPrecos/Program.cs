@@ -46,7 +46,7 @@ namespace TabelaPrecos
                 if (pedido == cod3)
                 {
                     double valor_total = valor_cod3 * quantidade;
-                    Console.WriteLine($"O valor total foi de R${valor_total}");
+                    Console.WriteLine($"O valor total foi 7 de R${valor_total}");
                     break;
                 }
                 if (pedido == cod4)
