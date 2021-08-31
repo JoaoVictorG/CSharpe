@@ -2,9 +2,9 @@
 
 namespace Welcome1
 {
-    class Program
+    class Welcome1
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.WriteLine("Hello World!");
         }

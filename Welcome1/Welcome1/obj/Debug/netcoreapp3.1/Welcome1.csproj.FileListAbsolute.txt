@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\bin\Debug\netcoreapp3.1\Welcome1.exe
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\bin\Debug\netcoreapp3.1\Welcome1.deps.json
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\bin\Debug\netcoreapp3.1\Welcome1.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\bin\Debug\netcoreapp3.1\Welcome1.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\bin\Debug\netcoreapp3.1\Welcome1.dll
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\bin\Debug\netcoreapp3.1\Welcome1.pdb
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.dll
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.pdb
+H:\Github\Estudo\CSharpe\Welcome1\Welcome1\obj\Debug\netcoreapp3.1\Welcome1.genruntimeconfig.cache
