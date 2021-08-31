@@ -6,9 +6,7 @@ namespace Welcome1
     {
         static void Main()
         {
-            Console.Write("Olá");
-            Console.WriteLine("Hello World!");
-            Console.Write("Olá");
+            Console.WriteLine("Hello World!\n Olá mundo! \n Hello World!");
         }
     }
 }
