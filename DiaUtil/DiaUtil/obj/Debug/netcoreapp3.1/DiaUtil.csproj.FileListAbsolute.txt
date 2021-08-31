@@ -1,0 +1,12 @@
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\bin\Debug\netcoreapp3.1\DiaUtil.exe
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\bin\Debug\netcoreapp3.1\DiaUtil.deps.json
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\bin\Debug\netcoreapp3.1\DiaUtil.runtimeconfig.json
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\bin\Debug\netcoreapp3.1\DiaUtil.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\bin\Debug\netcoreapp3.1\DiaUtil.dll
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\bin\Debug\netcoreapp3.1\DiaUtil.pdb
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\obj\Debug\netcoreapp3.1\DiaUtil.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\obj\Debug\netcoreapp3.1\DiaUtil.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\obj\Debug\netcoreapp3.1\DiaUtil.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\obj\Debug\netcoreapp3.1\DiaUtil.dll
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\obj\Debug\netcoreapp3.1\DiaUtil.pdb
+H:\Github\Estudo\CSharpe\DiaUtil\DiaUtil\obj\Debug\netcoreapp3.1\DiaUtil.genruntimeconfig.cache
