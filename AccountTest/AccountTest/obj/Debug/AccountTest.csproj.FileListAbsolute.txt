@@ -1,2 +1,0 @@
-H:\Github\Estudo\CSharpe\AccountTest\AccountTest\obj\Debug\AccountTest.csproj.AssemblyReference.cache
-H:\Github\Estudo\CSharpe\AccountTest\AccountTest\obj\Debug\AccountTest.csproj.CoreCompileInputs.cache
