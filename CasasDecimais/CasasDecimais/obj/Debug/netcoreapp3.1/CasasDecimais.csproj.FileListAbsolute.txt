@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\bin\Debug\netcoreapp3.1\CasasDecimais.exe
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\bin\Debug\netcoreapp3.1\CasasDecimais.deps.json
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\bin\Debug\netcoreapp3.1\CasasDecimais.runtimeconfig.json
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\bin\Debug\netcoreapp3.1\CasasDecimais.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\bin\Debug\netcoreapp3.1\CasasDecimais.dll
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\bin\Debug\netcoreapp3.1\CasasDecimais.pdb
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.dll
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.pdb
+H:\Github\Estudo\CSharpe\CasasDecimais\CasasDecimais\obj\Debug\netcoreapp3.1\CasasDecimais.genruntimeconfig.cache
