@@ -11,7 +11,7 @@ namespace Calc_Salario
             while (funcionario < 11)
             {
                 Console.WriteLine($"Digite o valor do sálário do funcionário {funcionario}");
-                float salario_bruto = Convert.ToInt32(Console.ReadLine());
+                double salario_bruto = Convert.ToInt32(Console.ReadLine());
                 if(salario_bruto > 0)
                 {
                     if (salario_bruto <= 300)
