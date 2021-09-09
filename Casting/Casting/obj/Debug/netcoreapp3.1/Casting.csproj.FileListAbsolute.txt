@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+H:\Github\Estudo\CSharpe\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+H:\Github\Estudo\CSharpe\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+H:\Github\Estudo\CSharpe\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+H:\Github\Estudo\CSharpe\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
