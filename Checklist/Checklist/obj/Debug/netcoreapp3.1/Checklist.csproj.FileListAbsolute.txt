@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Checklist\Checklist\bin\Debug\netcoreapp3.1\Checklist.exe
+H:\Github\Estudo\CSharpe\Checklist\Checklist\bin\Debug\netcoreapp3.1\Checklist.deps.json
+H:\Github\Estudo\CSharpe\Checklist\Checklist\bin\Debug\netcoreapp3.1\Checklist.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Checklist\Checklist\bin\Debug\netcoreapp3.1\Checklist.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Checklist\Checklist\bin\Debug\netcoreapp3.1\Checklist.dll
+H:\Github\Estudo\CSharpe\Checklist\Checklist\bin\Debug\netcoreapp3.1\Checklist.pdb
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.dll
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.pdb
+H:\Github\Estudo\CSharpe\Checklist\Checklist\obj\Debug\netcoreapp3.1\Checklist.genruntimeconfig.cache
