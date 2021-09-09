@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Split\Split\bin\Debug\netcoreapp3.1\Split.exe
+H:\Github\Estudo\CSharpe\Split\Split\bin\Debug\netcoreapp3.1\Split.deps.json
+H:\Github\Estudo\CSharpe\Split\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Split\Split\bin\Debug\netcoreapp3.1\Split.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Split\Split\bin\Debug\netcoreapp3.1\Split.dll
+H:\Github\Estudo\CSharpe\Split\Split\bin\Debug\netcoreapp3.1\Split.pdb
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.dll
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.pdb
+H:\Github\Estudo\CSharpe\Split\Split\obj\Debug\netcoreapp3.1\Split.genruntimeconfig.cache

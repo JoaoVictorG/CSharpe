@@ -8,7 +8,7 @@ namespace Casting
         {
             double a;
             int b;
-            a = 5.1;
+            a = 5.9;
             b = (int)a;
             Console.WriteLine(b);
         }
