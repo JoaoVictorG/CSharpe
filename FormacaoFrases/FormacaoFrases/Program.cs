@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Globalization;
 namespace FormacaoFrases
 {
     class Program
@@ -20,7 +20,11 @@ namespace FormacaoFrases
             Console.WriteLine("Produtos:");
             Console.WriteLine(produto1 + ", cujo preço é $" + preco1.ToString("F2"));
             Console.WriteLine(produto2 + ", cujo preço é $" + preco2.ToString("F2"));
-
+            Console.WriteLine("");
+            Console.WriteLine("Registro: " + idade + " anos de idade, código " + codigo + " e gênero " + genero);
+            Console.WriteLine("Medida com oito casas decimais:" + media.ToString("F8"));
+            Console.WriteLine(media.ToString("F3"));
+            Console.WriteLine(media.ToString("F3", CultureInfo.InvariantCulture));
         }
     }
 }
