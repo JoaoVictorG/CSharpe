@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.exe
+H:\Github\Estudo\CSharpe\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.deps.json
+H:\Github\Estudo\CSharpe\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.dll
+H:\Github\Estudo\CSharpe\Funcao\Funcao\bin\Debug\netcoreapp3.1\Funcao.pdb
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.dll
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.pdb
+H:\Github\Estudo\CSharpe\Funcao\Funcao\obj\Debug\netcoreapp3.1\Funcao.genruntimeconfig.cache
