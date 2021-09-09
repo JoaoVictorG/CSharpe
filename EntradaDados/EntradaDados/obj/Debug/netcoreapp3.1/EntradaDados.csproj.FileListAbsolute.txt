@@ -1,0 +1,12 @@
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.exe
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.deps.json
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.runtimeconfig.json
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.dll
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\bin\Debug\netcoreapp3.1\EntradaDados.pdb
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.dll
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.pdb
+H:\Github\Estudo\CSharpe\EntradaDados\EntradaDados\obj\Debug\netcoreapp3.1\EntradaDados.genruntimeconfig.cache
