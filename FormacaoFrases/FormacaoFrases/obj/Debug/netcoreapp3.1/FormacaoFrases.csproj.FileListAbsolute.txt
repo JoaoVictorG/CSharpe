@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\bin\Debug\netcoreapp3.1\FormacaoFrases.exe
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\bin\Debug\netcoreapp3.1\FormacaoFrases.deps.json
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\bin\Debug\netcoreapp3.1\FormacaoFrases.runtimeconfig.json
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\bin\Debug\netcoreapp3.1\FormacaoFrases.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\bin\Debug\netcoreapp3.1\FormacaoFrases.dll
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\bin\Debug\netcoreapp3.1\FormacaoFrases.pdb
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.dll
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.pdb
+H:\Github\Estudo\CSharpe\FormacaoFrases\FormacaoFrases\obj\Debug\netcoreapp3.1\FormacaoFrases.genruntimeconfig.cache
