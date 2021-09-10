@@ -1,0 +1,12 @@
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\bin\Debug\netcoreapp3.1\LerSalario.exe
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\bin\Debug\netcoreapp3.1\LerSalario.deps.json
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\bin\Debug\netcoreapp3.1\LerSalario.runtimeconfig.json
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\bin\Debug\netcoreapp3.1\LerSalario.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\bin\Debug\netcoreapp3.1\LerSalario.dll
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\bin\Debug\netcoreapp3.1\LerSalario.pdb
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\obj\Debug\netcoreapp3.1\LerSalario.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\obj\Debug\netcoreapp3.1\LerSalario.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\obj\Debug\netcoreapp3.1\LerSalario.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\obj\Debug\netcoreapp3.1\LerSalario.dll
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\obj\Debug\netcoreapp3.1\LerSalario.pdb
+H:\Github\Estudo\CSharpe\LerSalario\LerSalario\obj\Debug\netcoreapp3.1\LerSalario.genruntimeconfig.cache
