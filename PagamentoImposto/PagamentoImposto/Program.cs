@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Globalization;
 namespace PagamentoImposto
 {
     class Program
@@ -14,6 +14,7 @@ namespace PagamentoImposto
             Console.WriteLine("Digite o valor do Imposto");
             func.Imposto = double.Parse(Console.ReadLine());
 
+            Console.WriteLine(func);
 
         }
     }

@@ -10,6 +10,12 @@ namespace PagamentoImposto
         public double SalarioBruto;
         public double Imposto;
 
-
+        public override string ToString()
+        {
+            return "Funcionário: "
+                + Nome
+                + ", "
+                + SalarioBruto;
+        }
     }
 }
