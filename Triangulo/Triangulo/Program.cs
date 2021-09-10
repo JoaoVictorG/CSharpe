@@ -18,11 +18,19 @@ namespace Triangulo
 
             double pX = (aX + bX + cX) / 2;
             double areaX = Math.Sqrt(pX * (pX - aX) * (pX - bX) * (pX - cX));
-            Console.WriteLine(areaX.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor área X:" + areaX.ToString("F4", CultureInfo.InvariantCulture));
 
             double pY = (aY + bY + cY) / 2;
             double areaY = Math.Sqrt(pY * (pY - aY) * (pY - bY) * (pY - cY));
-            Console.WriteLine(areaY.ToString("F4",CultureInfo.InvariantCulture));
+            Console.WriteLine("Valor área Y: " + areaY.ToString("F4",CultureInfo.InvariantCulture));
+            if(pX > pY)
+            {
+                Console.WriteLine("Maior valor: X");
+            }
+            else
+            {
+                Console.WriteLine("Maior valor: Y");
+            }
         }
     }
 }
