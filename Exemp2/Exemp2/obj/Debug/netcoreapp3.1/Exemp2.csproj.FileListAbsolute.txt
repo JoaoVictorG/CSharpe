@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\bin\Debug\netcoreapp3.1\Exemp2.exe
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\bin\Debug\netcoreapp3.1\Exemp2.deps.json
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\bin\Debug\netcoreapp3.1\Exemp2.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\bin\Debug\netcoreapp3.1\Exemp2.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\bin\Debug\netcoreapp3.1\Exemp2.dll
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\bin\Debug\netcoreapp3.1\Exemp2.pdb
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.dll
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.pdb
+H:\Github\Estudo\CSharpe\Exemp2\Exemp2\obj\Debug\netcoreapp3.1\Exemp2.genruntimeconfig.cache
