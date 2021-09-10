@@ -6,24 +6,28 @@ namespace Triangulo
     {
         static void Main(string[] args)
         {
+            TrianguloClass x, y;
+            x = new TrianguloClass();
+            y = new TrianguloClass();
+
             Console.WriteLine("Entre com as medidas do triângulo x:");
-            double aX = double.Parse(Console.ReadLine());
-            double bX = double.Parse(Console.ReadLine());
-            double cX = double.Parse(Console.ReadLine());
+            x.A = double.Parse(Console.ReadLine());
+            x.B = double.Parse(Console.ReadLine());
+            x.C = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Entre com as medidas do triângulo y:");
-            double aY = double.Parse(Console.ReadLine());
-            double bY = double.Parse(Console.ReadLine());
-            double cY = double.Parse(Console.ReadLine());
+            y.A = double.Parse(Console.ReadLine());
+            y.B = double.Parse(Console.ReadLine());
+            y.C = double.Parse(Console.ReadLine());
 
-            double pX = (aX + bX + cX) / 2;
-            double areaX = Math.Sqrt(pX * (pX - aX) * (pX - bX) * (pX - cX));
-            Console.WriteLine("Valor área X:" + areaX.ToString("F4", CultureInfo.InvariantCulture));
+            x.P = (x.A + x.B + x.C) / 2;
+            x.Area = Math.Sqrt(x.P * (x.P - x.A) * (x.P - x.B) * (x.P - x.C));
+            Console.WriteLine("Valor área X:" + x.Area.ToString("F4", CultureInfo.InvariantCulture));
 
-            double pY = (aY + bY + cY) / 2;
-            double areaY = Math.Sqrt(pY * (pY - aY) * (pY - bY) * (pY - cY));
-            Console.WriteLine("Valor área Y: " + areaY.ToString("F4",CultureInfo.InvariantCulture));
-            if(pX > pY)
+            y.P = (y.A + y.B + y.C) / 2;
+            y.Area = Math.Sqrt(y.P * (y.P - y.A) * (y.P - y.B) * (y.P - y.C));
+            Console.WriteLine("Valor área Y: " + y.Area.ToString("F4",CultureInfo.InvariantCulture));
+            if(x.P > y.P)
             {
                 Console.WriteLine("Maior valor: X");
             }
