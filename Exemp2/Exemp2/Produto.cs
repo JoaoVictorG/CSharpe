@@ -13,6 +13,14 @@ namespace Exemp2
         {
             return Preco * Quantidade;
         }
+        public void AdicionarProduto(int quantidade)
+        {
+            Quantidade = Quantidade + quantidade;
+        }
+        public void RemoverProduto(int quantidade)
+        {
+            Quantidade = Quantidade - quantidade;
+        }
         public override string ToString()
         {
             return Nome 

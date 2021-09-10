@@ -19,6 +19,19 @@ namespace Exemp2
             var valorTotal = produto.ValorTotalEmEstoque();
 
             Console.WriteLine("Dados do Produto: " + produto);
+
+            Console.WriteLine("Digite a Quantidade de produtos adicionados");
+            int qte = int.Parse(Console.ReadLine());
+
+            produto.AdicionarProduto(qte);
+
+            Console.WriteLine("Dados Atualizados " + produto);
+
+            Console.WriteLine("Digite a Quantidade de produtos removidos");
+            qte = int.Parse(Console.ReadLine());
+            produto.RemoverProduto(qte);
+
+            Console.WriteLine("Dados Atualizados " + produto);
         }
     }
 }
