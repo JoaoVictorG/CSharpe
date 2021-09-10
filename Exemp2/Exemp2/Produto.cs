@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Globalization;
 
 namespace Exemp2
 {
@@ -9,5 +8,14 @@ namespace Exemp2
         public string Nome;
         public double Preco;
         public int Quantidade;
+
+        public double ValorTotalEmEstoque()
+        {
+            return Preco * Quantidade;
+        }
+        public override string ToString()
+        {
+            return Nome + ", $ " + Preco.ToString("F2", CultureInfo.InvariantCulture) + ", " + Quantidade + " unidades.";
+        }
     }
 }

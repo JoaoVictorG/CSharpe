@@ -12,13 +12,13 @@ namespace Exemp2
             Console.WriteLine("Nome:");
             produto.Nome = Console.ReadLine();
             Console.WriteLine("Preço");
-            produto.Preco = double.Parse(Console.ReadLine());
+            produto.Preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("Quantidade");
             produto.Quantidade = int.Parse(Console.ReadLine());
 
-            double valorTotal = produto.Preco * produto.Quantidade;
+            var valorTotal = produto.ValorTotalEmEstoque();
 
-            Console.WriteLine("Dados do Produto " + produto.Nome + ", $" + produto.Preco + ", " + produto.Quantidade + " unidades, Total: $ " + valorTotal.ToString("F2"));
+            Console.WriteLine("Dados do Produto: " + produto);
         }
     }
 }
