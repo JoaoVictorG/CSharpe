@@ -20,14 +20,13 @@ namespace Triangulo
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            x.P = (x.A + x.B + x.C) / 2;
-            x.Area = Math.Sqrt(x.P * (x.P - x.A) * (x.P - x.B) * (x.P - x.C));
-            Console.WriteLine("Valor área X:" + x.Area.ToString("F4", CultureInfo.InvariantCulture));
+            double areaX = x.Area();
 
-            y.P = (y.A + y.B + y.C) / 2;
-            y.Area = Math.Sqrt(y.P * (y.P - y.A) * (y.P - y.B) * (y.P - y.C));
-            Console.WriteLine("Valor área Y: " + y.Area.ToString("F4",CultureInfo.InvariantCulture));
-            if(x.P > y.P)
+            Console.WriteLine("Valor área X: " + areaX.ToString("F2",CultureInfo.InvariantCulture));
+
+            double areaY = y.Area();
+            Console.WriteLine("Valor área Y: " + areaY.ToString("F2",CultureInfo.InvariantCulture));
+            if(areaX > areaY)
             {
                 Console.WriteLine("Maior valor: X");
             }
