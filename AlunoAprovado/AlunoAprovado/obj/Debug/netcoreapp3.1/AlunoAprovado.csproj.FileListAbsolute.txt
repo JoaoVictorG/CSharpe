@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\bin\Debug\netcoreapp3.1\AlunoAprovado.exe
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\bin\Debug\netcoreapp3.1\AlunoAprovado.deps.json
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\bin\Debug\netcoreapp3.1\AlunoAprovado.runtimeconfig.json
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\bin\Debug\netcoreapp3.1\AlunoAprovado.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\bin\Debug\netcoreapp3.1\AlunoAprovado.dll
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\bin\Debug\netcoreapp3.1\AlunoAprovado.pdb
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.dll
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.pdb
+H:\Github\Estudo\CSharpe\AlunoAprovado\AlunoAprovado\obj\Debug\netcoreapp3.1\AlunoAprovado.genruntimeconfig.cache
