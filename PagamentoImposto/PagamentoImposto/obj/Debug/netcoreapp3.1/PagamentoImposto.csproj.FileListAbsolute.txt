@@ -10,3 +10,4 @@ H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3
 H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.dll
 H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.pdb
 H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.genruntimeconfig.cache
+H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.csproj.AssemblyReference.cache

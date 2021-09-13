@@ -16,6 +16,13 @@ namespace PagamentoImposto
 
             Console.WriteLine(func);
 
+            Console.WriteLine("Digite a porcentagem para aumetar o salário: ");
+            double porcentagem = double.Parse(Console.ReadLine());
+            func.AumentarSalario(porcentagem);
+
+            Console.WriteLine(func);
+
+
         }
     }
 }
