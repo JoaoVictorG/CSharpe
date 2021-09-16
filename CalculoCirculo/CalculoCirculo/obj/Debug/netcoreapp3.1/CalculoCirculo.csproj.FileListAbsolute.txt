@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\bin\Debug\netcoreapp3.1\CalculoCirculo.exe
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\bin\Debug\netcoreapp3.1\CalculoCirculo.deps.json
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\bin\Debug\netcoreapp3.1\CalculoCirculo.runtimeconfig.json
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\bin\Debug\netcoreapp3.1\CalculoCirculo.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\bin\Debug\netcoreapp3.1\CalculoCirculo.dll
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\bin\Debug\netcoreapp3.1\CalculoCirculo.pdb
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.dll
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.pdb
+H:\Github\Estudo\CSharpe\CalculoCirculo\CalculoCirculo\obj\Debug\netcoreapp3.1\CalculoCirculo.genruntimeconfig.cache

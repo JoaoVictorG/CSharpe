@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.exe
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.deps.json
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.json
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.dll
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.dll
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.pdb
+H:\Github\Estudo\CSharpe\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp3.1\MembrosEstaticos.genruntimeconfig.cache
