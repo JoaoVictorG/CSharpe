@@ -11,10 +11,8 @@ namespace Exemp2
             string nome = Console.ReadLine();
             Console.WriteLine("Preço");
             double preco = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.WriteLine("Quantidade");
-            int quantidade = int.Parse(Console.ReadLine());
 
-            var produto = new Produto(nome, preco, quantidade);
+            var produto = new Produto(nome, preco);
 
             var valorTotal = produto.ValorTotalEmEstoque();
 
