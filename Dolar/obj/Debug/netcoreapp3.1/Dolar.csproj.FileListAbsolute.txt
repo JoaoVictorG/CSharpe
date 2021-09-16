@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Dolar\bin\Debug\netcoreapp3.1\Dolar.exe
+H:\Github\Estudo\CSharpe\Dolar\bin\Debug\netcoreapp3.1\Dolar.deps.json
+H:\Github\Estudo\CSharpe\Dolar\bin\Debug\netcoreapp3.1\Dolar.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Dolar\bin\Debug\netcoreapp3.1\Dolar.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Dolar\bin\Debug\netcoreapp3.1\Dolar.dll
+H:\Github\Estudo\CSharpe\Dolar\bin\Debug\netcoreapp3.1\Dolar.pdb
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.dll
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.pdb
+H:\Github\Estudo\CSharpe\Dolar\obj\Debug\netcoreapp3.1\Dolar.genruntimeconfig.cache
