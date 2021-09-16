@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoCirculo", "CalculoCirculo\CalculoCirculo.csproj", "{2AE6FA43-D46E-4F14-A995-4FABC6B0DAAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AE6FA43-D46E-4F14-A995-4FABC6B0DAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE6FA43-D46E-4F14-A995-4FABC6B0DAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE6FA43-D46E-4F14-A995-4FABC6B0DAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE6FA43-D46E-4F14-A995-4FABC6B0DAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846AD705-8273-4C09-B3B6-3477CAA3A809}
+	EndGlobalSection
+EndGlobal
