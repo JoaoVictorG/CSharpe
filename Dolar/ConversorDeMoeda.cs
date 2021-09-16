@@ -10,7 +10,10 @@ namespace Dolar
 
         public static double Calculo(double p,double q)
         {
-            return (p * q) * Iof;  
+            Console.WriteLine(Iof);
+            double valor = p * q;
+            double imposto = valor * Iof;
+            return (imposto + valor)/100;
         }
 
     }
