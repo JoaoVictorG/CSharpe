@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.exe
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.deps.json
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.runtimeconfig.json
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.dll
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\bin\Debug\netcoreapp3.1\ContaBanco.pdb
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.dll
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.pdb
+H:\Github\Estudo\CSharpe\ContaBanco\ContaBanco\obj\Debug\netcoreapp3.1\ContaBanco.genruntimeconfig.cache
