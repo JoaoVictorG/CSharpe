@@ -7,7 +7,7 @@ namespace Exemp2
     {
         private string _nome;
         public double Preco { get; private set;}
-        public int Quantidade { get; set; }
+        public int Quantidade { get; private set; }
 
         public Produto(string nome, double preco, int quantidade)
         {
