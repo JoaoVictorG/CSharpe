@@ -27,7 +27,14 @@ namespace Course
 
         public void Saque(double quantia)
         {
-            Saldo -= quantia + 5.0;
+            if(quantia > 0)
+            {
+                Saldo -= quantia + 5.0;
+            }
+            else
+            {
+                Saldo = Saldo;
+            }
         }
 
         public override string ToString()
