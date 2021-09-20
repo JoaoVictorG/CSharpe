@@ -7,7 +7,6 @@ namespace Course
     {
         static void Main(string[] args)
         {
-
             ContaBancaria conta;
 
             Console.Write("Entre o número da conta: ");
@@ -35,6 +34,7 @@ namespace Course
             Console.Write("Entre um valor para depósito: ");
             double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             conta.Deposito(quantia);
+
             Console.WriteLine("Dados da conta atualizados:");
             Console.WriteLine(conta);
 
