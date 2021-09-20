@@ -25,7 +25,6 @@ namespace Course
             {
                 conta = new ContaBancaria(numero, titular);
             }
-
             Console.WriteLine();
             Console.WriteLine("Dados da conta:");
             Console.WriteLine(conta);
