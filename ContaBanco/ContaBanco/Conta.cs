@@ -36,10 +36,6 @@ namespace Course
             {
                 Saldo -= quantia + 5.0;
             }
-            //else
-            //{
-            //    Saldo = Saldo;
-            //}
         }
 
         public override string ToString()
