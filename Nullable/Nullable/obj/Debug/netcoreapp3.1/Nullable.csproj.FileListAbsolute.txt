@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.exe
+H:\Github\Estudo\CSharpe\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.deps.json
+H:\Github\Estudo\CSharpe\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.dll
+H:\Github\Estudo\CSharpe\Nullable\Nullable\bin\Debug\netcoreapp3.1\Nullable.pdb
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.dll
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.pdb
+H:\Github\Estudo\CSharpe\Nullable\Nullable\obj\Debug\netcoreapp3.1\Nullable.genruntimeconfig.cache
