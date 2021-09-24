@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.exe
+H:\Github\Estudo\CSharpe\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.deps.json
+H:\Github\Estudo\CSharpe\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.dll
+H:\Github\Estudo\CSharpe\Vetores\Vetores\bin\Debug\netcoreapp3.1\Vetores.pdb
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.dll
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.pdb
+H:\Github\Estudo\CSharpe\Vetores\Vetores\obj\Debug\netcoreapp3.1\Vetores.genruntimeconfig.cache
