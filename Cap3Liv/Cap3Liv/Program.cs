@@ -19,6 +19,9 @@ namespace Cap3Liv
             WriteLine($"Nome: {nome.Remove(5)}");
             WriteLine($"Nome: {nome}");
             WriteLine($"Nome: {nome.Remove(nome.IndexOf("e"))}");
+            WriteLine($"Nome: {nome}");
+            string nome2 = nome.Replace("Text", "Nome");
+            WriteLine($"Nome: {nome2}");
 
         }
     }
