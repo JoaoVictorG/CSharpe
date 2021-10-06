@@ -22,6 +22,8 @@ namespace Cap3Liv
             WriteLine($"Nome: {nome}");
             string nome2 = nome.Replace("Text", "Nome");
             WriteLine($"Nome: {nome2}");
+            string nomes = "Joao Pedro Caio Casa";
+            WriteLine(nomes.Split(" "));
 
         }
     }
