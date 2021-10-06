@@ -15,6 +15,8 @@ namespace Cap3Liv
             WriteLine($"Nome: {nome.ToUpper()}");
             WriteLine($"Nome: {nome}");
             WriteLine($"Nome: {nome.ToLower()}");
+            WriteLine($"Nome: {nome}");
+            WriteLine($"Nome: {nome.Remove(5)}");
 
         }
     }
