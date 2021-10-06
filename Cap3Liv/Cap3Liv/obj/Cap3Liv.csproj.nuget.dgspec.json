@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Github\\Estudo\\CSharpe\\Vetores\\Vetores\\Vetores.csproj": {}
+    "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\Cap3Liv.csproj": {}
   },
   "projects": {
-    "H:\\Github\\Estudo\\CSharpe\\Vetores\\Vetores\\Vetores.csproj": {
+    "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\Cap3Liv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Github\\Estudo\\CSharpe\\Vetores\\Vetores\\Vetores.csproj",
-        "projectName": "Vetores",
-        "projectPath": "H:\\Github\\Estudo\\CSharpe\\Vetores\\Vetores\\Vetores.csproj",
+        "projectUniqueName": "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\Cap3Liv.csproj",
+        "projectName": "Cap3Liv",
+        "projectPath": "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\Cap3Liv.csproj",
         "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-        "outputPath": "H:\\Github\\Estudo\\CSharpe\\Vetores\\Vetores\\obj\\",
+        "outputPath": "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
