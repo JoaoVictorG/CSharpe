@@ -7,12 +7,19 @@ namespace Cap3Liv
         static void Main(string[] args)
         {
             string nome = "  Text   ";
-            WriteLine("Nome:" + nome);
+            WriteLine($"Nome: {nome}");
             WriteLine($"Tamanho:{nome.Length}");
             WriteLine($"Nome:{nome.Trim()}");
             WriteLine($"Tamanho:{nome.Trim().Length}");
             WriteLine($"Nome: {nome}");
             WriteLine($"Nome: {nome.ToUpper()}");
+            WriteLine($"Nome: {nome}");
+            WriteLine($"Nome: {nome.ToLower()}");
+            WriteLine($"Nome: {nome}");
+            WriteLine($"Nome: {nome.Remove(5)}");
+            WriteLine($"Nome: {nome}");
+            WriteLine($"Nome: {nome.Remove(nome.IndexOf("e"))}");
+
         }
     }
 }
