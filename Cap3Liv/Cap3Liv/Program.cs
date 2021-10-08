@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using static System.Console;
 namespace Cap3Liv
 {
@@ -23,7 +24,14 @@ namespace Cap3Liv
             string nome2 = nome.Replace("Text", "Nome");
             WriteLine($"Nome: {nome2}");
             string nomes = "Joao Pedro Caio Casa";
-            WriteLine(nomes.Split(" "));
+            string[] listaNomes = nomes.Split(' ');
+            var contador = 1;
+            foreach(var exp in listaNomes)
+            {
+                WriteLine($"texto {contador++}: {exp}");
+            }
+            WriteLine($"Quantidade de palavras: {listaNomes.Count()}");
+            
 
         }
     }
