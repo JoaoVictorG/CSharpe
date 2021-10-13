@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\bin\Debug\netcoreapp3.1\ListaCSharpeIniciante.exe
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\bin\Debug\netcoreapp3.1\ListaCSharpeIniciante.deps.json
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\bin\Debug\netcoreapp3.1\ListaCSharpeIniciante.runtimeconfig.json
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\bin\Debug\netcoreapp3.1\ListaCSharpeIniciante.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\bin\Debug\netcoreapp3.1\ListaCSharpeIniciante.dll
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\bin\Debug\netcoreapp3.1\ListaCSharpeIniciante.pdb
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.dll
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.pdb
+H:\Github\Estudo\CSharpe\ListaCSharpeIniciante\ListaCSharpeIniciante\obj\Debug\netcoreapp3.1\ListaCSharpeIniciante.genruntimeconfig.cache
