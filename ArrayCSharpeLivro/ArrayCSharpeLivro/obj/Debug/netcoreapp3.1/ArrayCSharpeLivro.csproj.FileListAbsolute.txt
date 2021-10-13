@@ -1,0 +1,14 @@
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\bin\Debug\netcoreapp3.1\ArrayCSharpeLivro.exe
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\bin\Debug\netcoreapp3.1\ArrayCSharpeLivro.deps.json
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\bin\Debug\netcoreapp3.1\ArrayCSharpeLivro.runtimeconfig.json
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\bin\Debug\netcoreapp3.1\ArrayCSharpeLivro.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\bin\Debug\netcoreapp3.1\ArrayCSharpeLivro.dll
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\bin\Debug\netcoreapp3.1\ArrayCSharpeLivro.pdb
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.dll
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.pdb
+H:\Github\Estudo\CSharpe\ArrayCSharpeLivro\ArrayCSharpeLivro\obj\Debug\netcoreapp3.1\ArrayCSharpeLivro.genruntimeconfig.cache
