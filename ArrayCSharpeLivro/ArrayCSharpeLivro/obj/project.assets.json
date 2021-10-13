@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\Cap3Liv.csproj",
-      "projectName": "Cap3Liv",
-      "projectPath": "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\Cap3Liv.csproj",
+      "projectUniqueName": "H:\\Github\\Estudo\\CSharpe\\ArrayCSharpeLivro\\ArrayCSharpeLivro\\ArrayCSharpeLivro.csproj",
+      "projectName": "ArrayCSharpeLivro",
+      "projectPath": "H:\\Github\\Estudo\\CSharpe\\ArrayCSharpeLivro\\ArrayCSharpeLivro\\ArrayCSharpeLivro.csproj",
       "packagesPath": "C:\\Users\\Developer\\.nuget\\packages\\",
-      "outputPath": "H:\\Github\\Estudo\\CSharpe\\Cap3Liv\\Cap3Liv\\obj\\",
+      "outputPath": "H:\\Github\\Estudo\\CSharpe\\ArrayCSharpeLivro\\ArrayCSharpeLivro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
