@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipoGenericoCSharpeIniciante", "TipoGenericoCSharpeIniciante\TipoGenericoCSharpeIniciante.csproj", "{35CD9121-FCF8-4E6E-960F-EA4BCB01F2EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CD9121-FCF8-4E6E-960F-EA4BCB01F2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CD9121-FCF8-4E6E-960F-EA4BCB01F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CD9121-FCF8-4E6E-960F-EA4BCB01F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CD9121-FCF8-4E6E-960F-EA4BCB01F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {222B1BB7-5A6A-4026-AA61-4EAA74B18A0D}
+	EndGlobalSection
+EndGlobal

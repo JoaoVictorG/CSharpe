@@ -12,11 +12,19 @@ namespace ListaCSharpeIniciante
             nomesFuncionarios.Add("André");
             nomesFuncionarios.Add("Flávia");
 
-            Console.WriteLine();
+            Console.WriteLine("Primeira Lista");
             foreach(string pessoa in nomesFuncionarios)
             {
                 Console.WriteLine(pessoa);
             }
+            nomesFuncionarios.RemoveAt(0);
+            Console.WriteLine("");
+            Console.WriteLine("Segunda Lista");
+            foreach (string pessoa in nomesFuncionarios)
+            {
+                Console.WriteLine(pessoa);
+            }
+
         }
     }
 }
