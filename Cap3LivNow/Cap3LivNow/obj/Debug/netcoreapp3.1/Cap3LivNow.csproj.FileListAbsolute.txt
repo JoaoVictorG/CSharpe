@@ -1,0 +1,14 @@
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\bin\Debug\netcoreapp3.1\Cap3LivNow.exe
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\bin\Debug\netcoreapp3.1\Cap3LivNow.deps.json
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\bin\Debug\netcoreapp3.1\Cap3LivNow.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\bin\Debug\netcoreapp3.1\Cap3LivNow.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\bin\Debug\netcoreapp3.1\Cap3LivNow.dll
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\bin\Debug\netcoreapp3.1\Cap3LivNow.pdb
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.dll
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.pdb
+H:\Github\Estudo\CSharpe\Cap3LivNow\Cap3LivNow\obj\Debug\netcoreapp3.1\Cap3LivNow.genruntimeconfig.cache

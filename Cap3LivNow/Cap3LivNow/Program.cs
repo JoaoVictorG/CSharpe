@@ -6,7 +6,9 @@ namespace Cap3LivNow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DateTime hoje = DateTime.Today;
+            Console.WriteLine("TODAY - retorno a data atual");
+            Console.WriteLine($"TODAY: {hoje: dd/MM/yyyy}");
         }
     }
 }
