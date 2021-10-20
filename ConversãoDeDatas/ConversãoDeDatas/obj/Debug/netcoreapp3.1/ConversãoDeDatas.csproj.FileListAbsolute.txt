@@ -1,0 +1,13 @@
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\bin\Debug\netcoreapp3.1\ConversãoDeDatas.exe
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\bin\Debug\netcoreapp3.1\ConversãoDeDatas.deps.json
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\bin\Debug\netcoreapp3.1\ConversãoDeDatas.runtimeconfig.json
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\bin\Debug\netcoreapp3.1\ConversãoDeDatas.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\bin\Debug\netcoreapp3.1\ConversãoDeDatas.dll
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\bin\Debug\netcoreapp3.1\ConversãoDeDatas.pdb
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.dll
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.pdb
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.genruntimeconfig.cache
