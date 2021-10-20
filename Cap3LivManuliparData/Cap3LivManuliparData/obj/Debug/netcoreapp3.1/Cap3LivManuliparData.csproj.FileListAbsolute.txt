@@ -1,0 +1,14 @@
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\bin\Debug\netcoreapp3.1\Cap3LivManuliparData.exe
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\bin\Debug\netcoreapp3.1\Cap3LivManuliparData.deps.json
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\bin\Debug\netcoreapp3.1\Cap3LivManuliparData.runtimeconfig.json
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\bin\Debug\netcoreapp3.1\Cap3LivManuliparData.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\bin\Debug\netcoreapp3.1\Cap3LivManuliparData.dll
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\bin\Debug\netcoreapp3.1\Cap3LivManuliparData.pdb
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.dll
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.pdb
+H:\Github\Estudo\CSharpe\Cap3LivManuliparData\Cap3LivManuliparData\obj\Debug\netcoreapp3.1\Cap3LivManuliparData.genruntimeconfig.cache
