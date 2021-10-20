@@ -17,6 +17,9 @@ namespace Cap3LivManuliparData
 
             Console.WriteLine($"Dia da semana: {dtVencto.DayOfWeek}");
             Console.WriteLine($"Dia da semana em português {dtVencto.ToString("dddd", new CultureInfo("pt-BR"))}");
+            Console.WriteLine($"Numero do dia da semana: {(int)dtVencto.DayOfWeek}");
+            Console.WriteLine($"Numero do dia do ano: {(int)dtVencto.DayOfYear}");
+
         }
     }
 }
