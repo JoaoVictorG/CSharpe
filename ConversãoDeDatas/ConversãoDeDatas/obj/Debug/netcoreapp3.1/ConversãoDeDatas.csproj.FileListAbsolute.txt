@@ -11,3 +11,4 @@ H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreap
 H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.dll
 H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.pdb
 H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.genruntimeconfig.cache
+H:\Github\Estudo\CSharpe\ConversãoDeDatas\ConversãoDeDatas\obj\Debug\netcoreapp3.1\ConversãoDeDatas.csproj.AssemblyReference.cache
