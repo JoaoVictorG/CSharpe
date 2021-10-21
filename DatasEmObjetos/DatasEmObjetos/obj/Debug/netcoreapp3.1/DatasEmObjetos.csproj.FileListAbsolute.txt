@@ -1,0 +1,14 @@
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\bin\Debug\netcoreapp3.1\DatasEmObjetos.exe
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\bin\Debug\netcoreapp3.1\DatasEmObjetos.deps.json
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\bin\Debug\netcoreapp3.1\DatasEmObjetos.runtimeconfig.json
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\bin\Debug\netcoreapp3.1\DatasEmObjetos.runtimeconfig.dev.json
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\bin\Debug\netcoreapp3.1\DatasEmObjetos.dll
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\bin\Debug\netcoreapp3.1\DatasEmObjetos.pdb
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.csproj.AssemblyReference.cache
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.GeneratedMSBuildEditorConfig.editorconfig
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.AssemblyInfoInputs.cache
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.AssemblyInfo.cs
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.csproj.CoreCompileInputs.cache
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.dll
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.pdb
+H:\Github\Estudo\CSharpe\DatasEmObjetos\DatasEmObjetos\obj\Debug\netcoreapp3.1\DatasEmObjetos.genruntimeconfig.cache
