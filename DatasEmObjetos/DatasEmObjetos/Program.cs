@@ -13,7 +13,7 @@ namespace DatasEmObjetos
                 DtPagto = DateTime.Today.AddDays(45),
                 Valor = 1500
             };
-            Console.WriteLine($"Pedido : {pedido.PedidoId} - " + $"Data: {pedido.DtPedido:dd/MMM/yyyy} - " + $"Vencimento: {pedido.DtVencimento(): dd/MMM/yyyy}");
+            Console.WriteLine($"Pedido : {pedido.PedidoId} - " + $"Data: {pedido.DtPedido:dd/MMM/yyyy} - " + $"Vencimento: {pedido.DtVencimento(): dd/MMM/yyyy} - " + $"Dias Atraso: {pedido.DiasAtraso().TotalDays} - " + $"Valor: {pedido.Valor:n2} - " + $"Multa: {pedido.Multa:n2}");
 
             
         }
