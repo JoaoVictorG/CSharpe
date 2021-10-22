@@ -6,15 +6,7 @@ namespace Parse
     {
         static void Main(string[] args)
         {
-            try
-            {
-                Console.WriteLine("----- . Parse");
-                Console.WriteLine($"{Int16.Parse("150")}");
-            }
-            catch(Exception ex)
-            {
-                Console.WriteLine(ex);
-            }
+            Console.WriteLine($"Data: {DateTime.Parse("22/10/2021")}");
         }
     }
 }
