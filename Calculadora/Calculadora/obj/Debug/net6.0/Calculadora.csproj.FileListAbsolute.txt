@@ -1,0 +1,15 @@
+D:\github\CSharpe\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+D:\github\CSharpe\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+D:\github\CSharpe\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+D:\github\CSharpe\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\github\CSharpe\Calculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+D:\github\CSharpe\Calculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll

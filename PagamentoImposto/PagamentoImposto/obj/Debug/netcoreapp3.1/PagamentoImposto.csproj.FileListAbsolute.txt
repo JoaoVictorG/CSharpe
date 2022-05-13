@@ -11,3 +11,17 @@ H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3
 H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.pdb
 H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.genruntimeconfig.cache
 H:\Github\Estudo\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.csproj.AssemblyReference.cache
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.exe
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.deps.json
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.runtimeconfig.json
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.runtimeconfig.dev.json
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.dll
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\bin\Debug\netcoreapp3.1\PagamentoImposto.pdb
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.csproj.AssemblyReference.cache
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.AssemblyInfoInputs.cache
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.AssemblyInfo.cs
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.csproj.CoreCompileInputs.cache
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.dll
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.pdb
+D:\github\CSharpe\PagamentoImposto\PagamentoImposto\obj\Debug\netcoreapp3.1\PagamentoImposto.genruntimeconfig.cache

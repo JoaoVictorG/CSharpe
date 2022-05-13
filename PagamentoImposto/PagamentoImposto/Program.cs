@@ -21,8 +21,6 @@ namespace PagamentoImposto
             func.AumentarSalario(porcentagem);
 
             Console.WriteLine(func);
-
-
         }
     }
 }
