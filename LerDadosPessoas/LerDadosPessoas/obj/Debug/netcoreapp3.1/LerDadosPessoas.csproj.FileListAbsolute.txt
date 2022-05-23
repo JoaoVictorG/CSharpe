@@ -11,3 +11,17 @@ H:\Github\Estudo\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1
 H:\Github\Estudo\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.dll
 H:\Github\Estudo\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.pdb
 H:\Github\Estudo\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.genruntimeconfig.cache
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\bin\Debug\netcoreapp3.1\LerDadosPessoas.exe
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\bin\Debug\netcoreapp3.1\LerDadosPessoas.deps.json
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\bin\Debug\netcoreapp3.1\LerDadosPessoas.runtimeconfig.json
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\bin\Debug\netcoreapp3.1\LerDadosPessoas.runtimeconfig.dev.json
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\bin\Debug\netcoreapp3.1\LerDadosPessoas.dll
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\bin\Debug\netcoreapp3.1\LerDadosPessoas.pdb
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.csproj.AssemblyReference.cache
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.AssemblyInfoInputs.cache
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.AssemblyInfo.cs
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.csproj.CoreCompileInputs.cache
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.dll
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.pdb
+D:\github\CSharpe\LerDadosPessoas\LerDadosPessoas\obj\Debug\netcoreapp3.1\LerDadosPessoas.genruntimeconfig.cache

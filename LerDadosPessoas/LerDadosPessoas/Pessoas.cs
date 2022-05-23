@@ -8,5 +8,6 @@ namespace LerDadosPessoas
     {
         public string Nome;
         public int Idade;
+        public string Sexo;
     }
 }
