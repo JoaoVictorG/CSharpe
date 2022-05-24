@@ -15,6 +15,8 @@ namespace PedraPapelTesoura
             int i = 1;
             while (i != 2)
             {
+                Console.WriteLine("");
+                Console.WriteLine(i + "° Tentativa:");
                 int jogadaHumano = int.Parse(Console.ReadLine());
                 Random rnd = new Random();
 
@@ -49,7 +51,8 @@ namespace PedraPapelTesoura
                 {
                     Console.WriteLine("Você perdeu, tente novamente");
                 }
-            }    
+            }
+            Console.Read();
             //string textoHumano;
             //if (jogadaHumano == 0)
             //{
