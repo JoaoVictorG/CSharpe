@@ -13,7 +13,7 @@ namespace PedraPapelTesoura
             
             //Console.WriteLine("Você"jogadaHumano);
             int i = 1;
-            while (i != 2)
+            while (i != 9999)
             {
                 Console.WriteLine("");
                 Console.WriteLine(i + "° Tentativa:");
@@ -31,6 +31,7 @@ namespace PedraPapelTesoura
                 if (jogadaHumano - jogadaComputador == 0)
                 {
                     Console.WriteLine("Você empatou, tente novamente");
+                    i++;
                 }
                 else if (jogadaHumano - jogadaComputador == (-2) || jogadaHumano - jogadaComputador == 1)
                 {
@@ -45,11 +46,12 @@ namespace PedraPapelTesoura
    \  $/  |  $$$$$$/|  $$$$$$$|  $$$$$$$      |  $$$$$$/|  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$/|  $$$$$$/
     \_/    \______/  \_______/ \_______/       \______/  \_______/|__/  |__/|__/  |__/ \______/  \______/");
                     Console.ResetColor();
-                    i++;
+                    i = 9999;
                 }
                 else
                 {
                     Console.WriteLine("Você perdeu, tente novamente");
+                    i++;
                 }
             }
             Console.Read();
