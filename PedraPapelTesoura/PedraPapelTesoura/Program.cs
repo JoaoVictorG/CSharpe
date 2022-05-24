@@ -32,6 +32,7 @@ namespace PedraPapelTesoura
                 }
                 else if (jogadaHumano - jogadaComputador == (-2) || jogadaHumano - jogadaComputador == 1)
                 {
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.WriteLine(@"
  /$$    /$$                                     /$$$$$$                      /$$                          
 | $$   | $$                                    /$$__  $$                    | $$                          
@@ -41,14 +42,13 @@ namespace PedraPapelTesoura
   \  $$$/ | $$  | $$| $$      | $$_____/      | $$  \ $$ /$$__  $$| $$  | $$| $$  | $$| $$  | $$| $$  | $$
    \  $/  |  $$$$$$/|  $$$$$$$|  $$$$$$$      |  $$$$$$/|  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$/|  $$$$$$/
     \_/    \______/  \_______/ \_______/       \______/  \_______/|__/  |__/|__/  |__/ \______/  \______/");
+                    Console.ResetColor();
                     i++;
                 }
                 else
                 {
                     Console.WriteLine("Você perdeu, tente novamente");
                 }
-
-
             }    
             //string textoHumano;
             //if (jogadaHumano == 0)
