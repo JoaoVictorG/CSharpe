@@ -28,16 +28,25 @@ namespace PedraPapelTesoura
                 //Console.WriteLine(numeroAleatorio);
                 if (jogadaHumano - jogadaComputador == 0)
                 {
-                    Console.WriteLine("Você empatou");
+                    Console.WriteLine("Você empatou, tente novamente");
                 }
                 else if (jogadaHumano - jogadaComputador == (-2) || jogadaHumano - jogadaComputador == 1)
                 {
-                    Console.WriteLine("Você ganhou");
+                    const string quote ="\""; 
+                    Console.WriteLine(@"
+ /$$    /$$                                     /$$$$$$                      /$$                          
+| $$   | $$                                    /$$__  $$                    | $$                          
+| $$   | $$ /$$$$$$   /$$$$$$$  /$$$$$$       | $$  \__/  /$$$$$$  /$$$$$$$ | $$$$$$$   /$$$$$$  /$$   /$$
+|  $$ / $$//$$__  $$ /$$_____/ /$$__  $$      | $$ /$$$$ |____  $$| $$__  $$| $$__  $$ /$$__  $$| $$  | $$
+ \  $$ $$/| $$  \ $$| $$      | $$$$$$$$      | $$|_  $$  /$$$$$$$| $$  \ $$| $$  \ $$| $$  \ $$| $$  | $$
+  \  $$$/ | $$  | $$| $$      | $$_____/      | $$  \ $$ /$$__  $$| $$  | $$| $$  | $$| $$  | $$| $$  | $$
+   \  $/  |  $$$$$$/|  $$$$$$$|  $$$$$$$      |  $$$$$$/|  $$$$$$$| $$  | $$| $$  | $$|  $$$$$$/|  $$$$$$/
+    \_/    \______/  \_______/ \_______/       \______/  \_______/|__/  |__/|__/  |__/ \______/  \______/");
                     i++;
                 }
                 else
                 {
-                    Console.WriteLine("Você perdeu");
+                    Console.WriteLine("Você perdeu, tente novamente");
                 }
 
 
