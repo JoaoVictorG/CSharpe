@@ -32,7 +32,6 @@ namespace PedraPapelTesoura
                 }
                 else if (jogadaHumano - jogadaComputador == (-2) || jogadaHumano - jogadaComputador == 1)
                 {
-                    const string quote ="\""; 
                     Console.WriteLine(@"
  /$$    /$$                                     /$$$$$$                      /$$                          
 | $$   | $$                                    /$$__  $$                    | $$                          
