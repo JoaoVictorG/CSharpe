@@ -24,6 +24,7 @@ namespace PedraPapelTesoura
                 
                 Console.WriteLine("Você escolheu: ");
                 Console.WriteLine(jogadaHumano);
+
                 Console.WriteLine("Seu adiversário escolheu: ");
                 Console.WriteLine(jogadaComputador);
 
