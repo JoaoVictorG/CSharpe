@@ -60,16 +60,16 @@ namespace PedraPapelTesoura
             //{
             //    textoHumano = "Pedra";
             //}
-            //else if(jogadaHumano == 1)
+            //else if (jogadaHumano == 1)
             //{
             //    textoHumano = "Papel";
             //}
-            //else if(jogadaHumano == 2)
+            //else if (jogadaHumano == 2)
             //{
             //    textoHumano = "Tesoura";
             //}
 
-            //Console.WriteLine($"Você escolheu: {textoHumano}");
+            //Console.WriteLine("Você escolheu: "+ textoHumano);
         }
     }
 }
